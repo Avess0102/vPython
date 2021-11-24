@@ -1,5 +1,4 @@
-#vPython
-#3D Graphic Using Visual Python
+# 3D Graphic Using Visual Python
 
 
 install vpython: 
